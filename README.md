@@ -57,7 +57,16 @@ Estou em transição de carreira, atualmente me graduando em Análise e Desenvol
  <a href="https://discord.gg/fjfg2sAZvY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
-<!-- Gif -->
+<!-- Snake de contribuições -->
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thamirisalvalle/Thamirisalvalle/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+  <!-- Gif -->
 <div align="right">
   <!--a href="https://github.com/thamirisalvalle">
     <img align="right" src="GitHubRosa.gif" width="150">
