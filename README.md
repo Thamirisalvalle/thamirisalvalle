@@ -66,7 +66,7 @@ Estou em transição de carreira, atualmente me graduando em Análise e Desenvol
 </div>
 
   <!-- Gif -->
-<div align="right">
+<div align="right" autoplay loop>
   <!--a href="https://github.com/thamirisalvalle">
     <img align="right" src="GitHubRosa.gif" width="150">
 </a-->
