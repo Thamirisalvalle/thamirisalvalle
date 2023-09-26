@@ -66,11 +66,8 @@ Estou em transição de carreira, atualmente me graduando em Análise e Desenvol
 </div>
 
   <!-- Gif -->
-<div align="right" autoplay loop>
-  <!--a href="https://github.com/thamirisalvalle">
-    <img align="right" src="GitHubRosa.gif" width="150">
-</a-->
-  <img align="right" width="150" src="https://cdn.discordapp.com/attachments/934986201604182026/1156311410062655549/GitHub.gif?ex=6514826b&is=651330eb&hm=cd1a6a564809c0ecf9c9180a23a9a74b7079cf19ecf924d1cc185128f16d1cc6&"
+<div>
+  <img align="right" width="150" autoplay loop src="https://cdn.discordapp.com/attachments/934986201604182026/1156311410062655549/GitHub.gif?ex=6514826b&is=651330eb&hm=cd1a6a564809c0ecf9c9180a23a9a74b7079cf19ecf924d1cc185128f16d1cc6&">
 </div>
 <br>
   
